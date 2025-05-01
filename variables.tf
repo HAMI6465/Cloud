@@ -33,3 +33,11 @@ variable "monitoring" {
   description = "this variable monitors the deployment of the conditional instance"
   type        = bool
 }
+
+variable "secret_key" {
+  
+}
+
+variable "access_key" {
+  
+}
